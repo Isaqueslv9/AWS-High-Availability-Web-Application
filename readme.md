@@ -84,7 +84,7 @@ Usuário → Load Balancer → EC2 (Auto Scaling) → Resposta
 
 ---
 
-# 🧪 Testes realizados
+# Testes realizados
 
 * Acesso à aplicação via Load Balancer
 * Distribuição de tráfego entre instâncias
@@ -95,6 +95,12 @@ Usuário → Load Balancer → EC2 (Auto Scaling) → Resposta
 ---
 
 # 📸 
+
+<img width="1914" height="941" alt="Image" src="https://github.com/user-attachments/assets/5e279ad6-bc16-4cf4-8d1d-82ccd8b9d220" />
+<img width="1916" height="936" alt="Image" src="https://github.com/user-attachments/assets/a8007a62-4efe-4202-ba1b-b19d70bf733e" />
+<img width="1912" height="939" alt="Image" src="https://github.com/user-attachments/assets/68311534-e853-4eae-a854-240262144365" />
+<img width="1913" height="944" alt="Image" src="https://github.com/user-attachments/assets/f71492fd-ca6b-43df-9398-b57d9f14ba30" />
+<img width="1919" height="947" alt="Image" src="https://github.com/user-attachments/assets/3cc1d8ab-8f29-4640-ac5d-a1e992e48b06" />
 
 
 ---
