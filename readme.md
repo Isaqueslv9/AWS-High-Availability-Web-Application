@@ -59,7 +59,7 @@ Usuário → Load Balancer → EC2 (Auto Scaling) → Resposta
 
 ---
 
-# ⚖️ Balanceamento de carga
+# Balanceamento de carga
 
 * Application Load Balancer distribuindo requisições entre múltiplas instâncias
 * Health Check para garantir que apenas instâncias saudáveis recebam tráfego
