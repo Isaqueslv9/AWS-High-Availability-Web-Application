@@ -105,8 +105,3 @@ Usuário → Load Balancer → EC2 (Auto Scaling) → Resposta
 
 ---
 
-# 🏁 Conclusão
-
-Este projeto representa uma arquitetura base utilizada em ambientes reais de produção, aplicando boas práticas de DevOps, redes e cloud computing.
-
--
